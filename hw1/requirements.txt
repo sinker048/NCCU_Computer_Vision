@@ -1,0 +1,4 @@
+numpy
+glob2
+matplotlib
+opencv-python
